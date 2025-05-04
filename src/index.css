@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -11,16 +12,22 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 =======
+=======
+>>>>>>> bcd430b (Initialize project using Create React App)
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+<<<<<<< HEAD
+>>>>>>> bcd430b (Initialize project using Create React App)
+=======
 >>>>>>> bcd430b (Initialize project using Create React App)
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 a {
   font-weight: 500;
@@ -74,6 +81,11 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+=======
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+>>>>>>> bcd430b (Initialize project using Create React App)
 =======
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

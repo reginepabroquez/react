@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Logs
 logs
@@ -24,6 +25,8 @@ dist-ssr
 *.sln
 *.sw?
 
+=======
+>>>>>>> bcd430b (Initialize project using Create React App)
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -47,4 +50,7 @@ dist-ssr
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 
+=======
+>>>>>>> bcd430b (Initialize project using Create React App)
