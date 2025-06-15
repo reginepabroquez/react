@@ -1,6 +1,9 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 66f73ca (Activity 7)
   "name": "reaction",
 <<<<<<< HEAD
   "private": true,
@@ -72,8 +75,11 @@
     ]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bcd430b (Initialize project using Create React App)
 =======
+=======
+>>>>>>> 66f73ca (Activity 7)
 =======
   "name": "scrape-backend",
   "version": "1.0.0",
@@ -93,8 +99,11 @@
     "nodemon": "^3.1.10",
     "xml2js": "^0.6.2"
 >>>>>>> 91362ba (Activity 7)
+<<<<<<< HEAD
 >>>>>>> 66f73ca (Activity 7)
 =======
 >>>>>>> bcd430b (Initialize project using Create React App)
+=======
+>>>>>>> 66f73ca (Activity 7)
   }
 }
